@@ -6,18 +6,6 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Backstory</title>
-    <link>https://quartz.jzhao.xyz/Characters/Sir-Benthic-Duskfall/Backstory</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Sir-Benthic-Duskfall/Backstory</guid>
-    <description>Man erzählt sich noch von ihm. Flüsternd, mit gesenktem Blick – als wolle man nicht riskieren, dass er einen hört.</description>
-    <pubDate>Mon, 26 May 2025 17:56:19 GMT</pubDate>
-  </item><item>
-    <title>00 - Eli</title>
-    <link>https://quartz.jzhao.xyz/Characters/Eli/00---Eli</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Eli/00---Eli</guid>
-    <description> NameEliKlasseFighterSubklasseEldritch KnightVolkHuman (Variant)HintergrundSoldierAlter24GeschlechtWeiblichGesinnungLawful NeutralHerkunft00 - TradenNotesCharacter Sheet Backstory – Zusammenfassung Aufgewachsen im Waisenhaus in Traden, einem gesetzlich kontrollierten Handelsposten Früh gelernt: Resp...</description>
-    <pubDate>Mon, 26 May 2025 00:24:48 GMT</pubDate>
-  </item><item>
     <title>00 - Traden</title>
     <link>https://quartz.jzhao.xyz/Homebrew/Locations/Free-Plains/Traden/00---Traden</link>
     <guid>https://quartz.jzhao.xyz/Homebrew/Locations/Free-Plains/Traden/00---Traden</guid>
@@ -65,6 +53,18 @@
     <guid>https://quartz.jzhao.xyz/Homebrew/Backgrounds/Steamborn-Oracle</guid>
     <description>You were born not of tribe or town, but of fire and water.</description>
     <pubDate>Sat, 24 May 2025 22:19:48 GMT</pubDate>
+  </item><item>
+    <title>Mudborn Oracle</title>
+    <link>https://quartz.jzhao.xyz/Homebrew/Backgrounds/Mudborn-Oracle</link>
+    <guid>https://quartz.jzhao.xyz/Homebrew/Backgrounds/Mudborn-Oracle</guid>
+    <description>You were born not of tribe or town, but of earth and water. The mud shaped you — a sign, a curse, or a blessing.</description>
+    <pubDate>Sat, 24 May 2025 22:17:38 GMT</pubDate>
+  </item><item>
+    <title>Thalmyra - Herrin der Tiefe</title>
+    <link>https://quartz.jzhao.xyz/Homebrew/Gods/Elemental-Gods/Thalmyra---Herrin-der-Tiefe</link>
+    <guid>https://quartz.jzhao.xyz/Homebrew/Gods/Elemental-Gods/Thalmyra---Herrin-der-Tiefe</guid>
+    <description>Sphäre &amp; Element Primäres Element: Wasser Domänen: Meer, Stille, Veränderung, Geduld, Vergessen Symbole: Kreis mit Wellenlinie, Tropfen in Spirale, eine stilisierte Flutwelle Wesen &amp; Persönlichkeit Thalmyra ist geduldig, unergründlich und unendlich.</description>
+    <pubDate>Sat, 24 May 2025 22:06:16 GMT</pubDate>
   </item>
     </channel>
   </rss>
