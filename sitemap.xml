@@ -1,16 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Gods/Elemental-Gods/Cindra---Die-ewige-Glut</loc>
-    <lastmod>2025-05-27T00:04:34.494Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Gods/Elemental-Gods/Galanor---Der-schlafende-Berg</loc>
-    <lastmod>2025-05-24T22:06:06.175Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Gods/Elemental-Gods/Thalmyra---Herrin-der-Tiefe</loc>
-    <lastmod>2025-05-24T22:06:16.542Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Gods/Elemental-Gods/Zephyrios---Der-Sturmf%C3%BCrst</loc>
-    <lastmod>2025-05-24T21:12:05.229Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Dustborn-Oracle</loc>
     <lastmod>2025-05-24T22:22:22.780Z</lastmod>
   </url><url>
@@ -41,31 +29,43 @@
     <loc>https://quartz.jzhao.xyz/Homebrew-Mechanics/Rules/Spellbooks-and-Scrolls</loc>
     <lastmod>2025-05-27T17:18:36.357Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Dawel's-Desert/Factions-and-Groups/Flameseeker-Nomaden</loc>
+    <loc>https://quartz.jzhao.xyz/World/Gods/Elemental-Gods/Cindra---Die-ewige-Glut</loc>
+    <lastmod>2025-05-27T00:04:34.494Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/World/Gods/Elemental-Gods/Galanor---Der-schlafende-Berg</loc>
+    <lastmod>2025-05-24T22:06:06.175Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/World/Gods/Elemental-Gods/Thalmyra---Herrin-der-Tiefe</loc>
+    <lastmod>2025-05-24T22:06:16.542Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/World/Gods/Elemental-Gods/Zephyrios---Der-Sturmf%C3%BCrst</loc>
+    <lastmod>2025-05-24T21:12:05.229Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Dawel's-Desert/Factions-and-Groups/Flameseeker-Nomaden</loc>
     <lastmod>2025-05-27T00:53:33.930Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Everwood-Enclave</loc>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Everwood-Forest/Everwood-Enclave</loc>
     <lastmod>2025-05-27T16:03:34.213Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Everwood-Forest</loc>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Everwood-Forest/Everwood-Forest</loc>
     <lastmod>2025-05-27T16:05:07.386Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Factions-and-Groups/Green-Watch</loc>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Everwood-Forest/Factions-and-Groups/Green-Watch</loc>
     <lastmod>2025-05-27T16:03:34.212Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Twin-Rivers</loc>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Everwood-Forest/Twin-Rivers</loc>
     <lastmod>2025-05-27T16:03:34.211Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/00---Traden</loc>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Free-Plains/Traden/00---Traden</loc>
     <lastmod>2025-05-27T16:03:34.209Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</loc>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Free-Plains/Traden/Stadtwache</loc>
     <lastmod>2025-05-27T03:18:39.458Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Locations/Ythtrah'mare/Ythtrah'mare</loc>
+    <loc>https://quartz.jzhao.xyz/World/Locations/Ythtrah'mare/Ythtrah'mare</loc>
     <lastmod>2025-05-26T21:06:53.237Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/World-Concepts/Elementar-Orakel</loc>
+    <loc>https://quartz.jzhao.xyz/World/World-Concepts/Elementar-Orakel</loc>
     <lastmod>2025-05-24T22:25:42.481Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
