@@ -6,17 +6,35 @@
       <description>Last 10 notes on Zarethor</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Stadtwache</title>
-    <link>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</link>
-    <guid>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</guid>
-    <description> Die Stadtwache von Traden ist die offizielle Ordnungsmacht der Stadt Traden.</description>
-    <pubDate>Tue, 27 May 2025 03:18:39 GMT</pubDate>
+    <title>Everwood Enclave</title>
+    <link>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Everwood-Enclave</link>
+    <guid>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Everwood-Enclave</guid>
+    <description> Die Everwood Enclave ist eine uralte Elfen-Siedlung tief im Everwood Forest, die seit jeher von den Elfen bewohnt wird.</description>
+    <pubDate>Tue, 27 May 2025 16:03:34 GMT</pubDate>
+  </item><item>
+    <title>Green Watch</title>
+    <link>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Factions-and-Groups/Green-Watch</link>
+    <guid>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Factions-and-Groups/Green-Watch</guid>
+    <description>Die Green Watch ist eine Organisation in Twin Rivers, gegründet von Lady Fiora Hammersted, mit dem Ziel, den Everwood Forest zu schützen und gleichzeitig eine nachhaltige Nutzung der Ressourcen zu gewährleisten.</description>
+    <pubDate>Tue, 27 May 2025 16:03:34 GMT</pubDate>
+  </item><item>
+    <title>Twin Rivers</title>
+    <link>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Twin-Rivers</link>
+    <guid>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Twin-Rivers</guid>
+    <description> Überblick Twin Rivers ist eine kleine, aber strategisch gelegene Stadt der Menschen, die an der Mündung zweier Flüsse in die Everwood Region liegt.</description>
+    <pubDate>Tue, 27 May 2025 16:03:34 GMT</pubDate>
   </item><item>
     <title>00 - Traden</title>
     <link>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/00---Traden</link>
     <guid>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/00---Traden</guid>
     <description>Typ: Stadt Region: Zwischen Seaport, Twin Rivers und Plara-Dur Besonderheiten: Strategischer Handelsposten, wirtschaftlich florierend, politisch angespannt Hintergrund Traden wurde ursprünglich als militärischer Versorgungsstützpunkt gegründet und entwickelte sich rasch zu einem Handelszentrum.</description>
-    <pubDate>Tue, 27 May 2025 03:18:11 GMT</pubDate>
+    <pubDate>Tue, 27 May 2025 16:03:34 GMT</pubDate>
+  </item><item>
+    <title>Stadtwache</title>
+    <link>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</link>
+    <guid>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</guid>
+    <description> Die Stadtwache von Traden ist die offizielle Ordnungsmacht der Stadt Traden.</description>
+    <pubDate>Tue, 27 May 2025 03:18:39 GMT</pubDate>
   </item><item>
     <title>Flameseeker Nomaden</title>
     <link>https://quartz.jzhao.xyz/Locations/Dawel's-Desert/Factions-and-Groups/Flameseeker-Nomaden</link>
@@ -47,24 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Gods/Elemental-Gods/Cindra---Die-ewige-Glut</guid>
     <description>Namen &amp; Titel Cindra Mancherorts auch bekannt als: Die Lodernde, Mutter der Glut, Die Aschenkönigin Domäne Feuer, Leidenschaft, Zerstörung, Reinigung durch Feuer, Hitze, Wille, Ambition Symbol Ein stilisiertes, spiralförmiges Flammenzeichen mit einem leuchtenden Kern aus Gold oder Rubinrot.</description>
     <pubDate>Tue, 27 May 2025 00:04:34 GMT</pubDate>
-  </item><item>
-    <title>Green Watch</title>
-    <link>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Factions-and-Groups/Green-Watch</link>
-    <guid>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Factions-and-Groups/Green-Watch</guid>
-    <description>Die Green Watch ist eine Organisation in Twin Rivers, gegründet von Lady Fiora Hammersted, mit dem Ziel, den Everwood Forest zu schützen und gleichzeitig eine nachhaltige Nutzung der Ressourcen zu gewährleisten.</description>
-    <pubDate>Mon, 26 May 2025 23:44:08 GMT</pubDate>
-  </item><item>
-    <title>Everwood Enclave</title>
-    <link>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Everwood-Enclave</link>
-    <guid>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Everwood-Enclave</guid>
-    <description> Die Everwood Enclave ist eine uralte Elfen-Siedlung tief im Everwood Forest, die seit jeher von den Elfen bewohnt wird.</description>
-    <pubDate>Mon, 26 May 2025 23:42:35 GMT</pubDate>
-  </item><item>
-    <title>Twin Rivers</title>
-    <link>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Twin-Rivers</link>
-    <guid>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Twin-Rivers</guid>
-    <description> Überblick Twin Rivers ist eine kleine, aber strategisch gelegene Stadt der Menschen, die an der Mündung zweier Flüsse in die Everwood Region liegt.</description>
-    <pubDate>Mon, 26 May 2025 23:41:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
