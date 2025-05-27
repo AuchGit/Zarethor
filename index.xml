@@ -6,23 +6,29 @@
       <description>Last 10 notes on Zarethor</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Steamborn Oracle</title>
-    <link>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Steamborn-Oracle</link>
-    <guid>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Steamborn-Oracle</guid>
-    <description> You were born not of tribe or town, but of fire and water.</description>
-    <pubDate>Tue, 27 May 2025 00:20:13 GMT</pubDate>
-  </item><item>
-    <title>Stormborn Oracle</title>
-    <link>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Stormborn-Oracle</link>
-    <guid>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Stormborn-Oracle</guid>
-    <description> DnDBeyond You were born not of tribe or town, but of air and water. The storm called you into being — a sign, a curse, or a blessing.</description>
-    <pubDate>Tue, 27 May 2025 00:19:52 GMT</pubDate>
+    <title>Stadtwache</title>
+    <link>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</link>
+    <guid>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</guid>
+    <description> Die Stadtwache von Traden ist die offizielle Ordnungsmacht der Stadt Traden.</description>
+    <pubDate>Tue, 27 May 2025 00:22:20 GMT</pubDate>
   </item><item>
     <title>Magmaborn Oracle</title>
     <link>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Magmaborn-Oracle</link>
     <guid>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Magmaborn-Oracle</guid>
     <description> You were born not of tribe or town, but of fire and earth.</description>
-    <pubDate>Tue, 27 May 2025 00:14:51 GMT</pubDate>
+    <pubDate>Tue, 27 May 2025 00:21:44 GMT</pubDate>
+  </item><item>
+    <title>Stormborn Oracle</title>
+    <link>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Stormborn-Oracle</link>
+    <guid>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Stormborn-Oracle</guid>
+    <description> DnDBeyond You were born not of tribe or town, but of air and water. The storm called you into being — a sign, a curse, or a blessing.</description>
+    <pubDate>Tue, 27 May 2025 00:21:40 GMT</pubDate>
+  </item><item>
+    <title>Steamborn Oracle</title>
+    <link>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Steamborn-Oracle</link>
+    <guid>https://quartz.jzhao.xyz/Homebrew-Mechanics/Backgrounds/Steamborn-Oracle</guid>
+    <description> You were born not of tribe or town, but of fire and water.</description>
+    <pubDate>Tue, 27 May 2025 00:21:32 GMT</pubDate>
   </item><item>
     <title>Cindra - Die ewige Glut</title>
     <link>https://quartz.jzhao.xyz/Gods/Elemental-Gods/Cindra---Die-ewige-Glut</link>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Locations/Everwood-Forest/Everwood-Forest</guid>
     <description>Der Everwood Forest ist ein uralter, magischer Wald, bekannt für seinen einzigartigen Rohstoff Everwood – ein extrem hartes, langlebiges Holz mit magischen Eigenschaften.</description>
     <pubDate>Mon, 26 May 2025 23:00:59 GMT</pubDate>
-  </item><item>
-    <title>Stadtwache</title>
-    <link>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</link>
-    <guid>https://quartz.jzhao.xyz/Locations/Free-Plains/Traden/Stadtwache</guid>
-    <description> Die Stadtwache von Traden ist die offizielle Ordnungsmacht der Stadt Traden.</description>
-    <pubDate>Mon, 26 May 2025 22:46:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
