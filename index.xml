@@ -6,6 +6,12 @@
       <description>Last 10 notes on Zarethor</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Resources</title>
+    <link>https://quartz.jzhao.xyz/Resources</link>
+    <guid>https://quartz.jzhao.xyz/Resources</guid>
+    <description>Resources: 5eTools(2014) 5eTools(2024) DnDBeyond.</description>
+    <pubDate>Wed, 28 May 2025 01:50:26 GMT</pubDate>
+  </item><item>
     <title>Flameseeker Nomaden</title>
     <link>https://quartz.jzhao.xyz/World/Locations/Dawel's-Desert/Factions-and-Groups/Flameseeker-Nomaden</link>
     <guid>https://quartz.jzhao.xyz/World/Locations/Dawel's-Desert/Factions-and-Groups/Flameseeker-Nomaden</guid>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/World/Locations/Free-Plains/Traden/00---Traden</guid>
     <description>Typ: Stadt Region: Zwischen Seaport, Twin Rivers und Plara-Dur Besonderheiten: Strategischer Handelsposten, wirtschaftlich florierend, politisch angespannt Hintergrund Traden wurde ursprünglich als militärischer Versorgungsstützpunkt gegründet und entwickelte sich rasch zu einem Handelszentrum.</description>
     <pubDate>Tue, 27 May 2025 16:03:34 GMT</pubDate>
-  </item><item>
-    <title>Stadtwache</title>
-    <link>https://quartz.jzhao.xyz/World/Locations/Free-Plains/Traden/Stadtwache</link>
-    <guid>https://quartz.jzhao.xyz/World/Locations/Free-Plains/Traden/Stadtwache</guid>
-    <description> Die Stadtwache von Traden ist die offizielle Ordnungsmacht der Stadt Traden.</description>
-    <pubDate>Tue, 27 May 2025 03:18:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
